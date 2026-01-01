@@ -14,7 +14,8 @@ pub async fn start() -> Result<(), String> {
         },
         Err(_) => 4000, 
     };
-    
+
+    println!("running on port: {}", port);    
 
     HttpServer::new(|| {
         App::new().route(
