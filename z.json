@@ -1,0 +1,164 @@
+{
+  "communities": [
+    {
+      "id": "16331bcf-9788-4e90-be53-6f8dc898487a",
+      "totalMembers": 4979,
+      "twitterFollowers": 1129,
+      "totalDiscordMembers": 983,
+      "name": "NTWRX",
+      "createdAt": "2025-12-22T15:32:29.133501Z",
+      "launchDate": "2025-12-26T11:59:16.084Z",
+      "website": "https://ntwrx.com/"
+    },
+    {
+      "id": "b4f51ae3-0cbf-4de6-9d19-e0e5be6496e5",
+      "totalMembers": 1605,
+      "twitterFollowers": 3472,
+      "totalDiscordMembers": 24,
+      "name": "WandrLust Explorers",
+      "createdAt": "2025-10-14T04:25:40.211504Z",
+      "launchDate": "2025-12-27T10:58:22.472Z",
+      "website": "https://www.wandrlust.io"
+    },
+    {
+      "id": "94329e07-36d8-4149-b127-c4c33567c6a2",
+      "totalMembers": 2428,
+      "twitterFollowers": 2567,
+      "totalDiscordMembers": 0,
+      "name": "Cronika",
+      "createdAt": "2025-12-22T09:16:53.895638Z",
+      "launchDate": "2025-12-22T19:00:25.035Z",
+      "website": "https://cronika.com/"
+    },
+    {
+      "id": "c56947de-2780-4582-adbb-81ea9a6c258c",
+      "totalMembers": 5759,
+      "twitterFollowers": 312745,
+      "totalDiscordMembers": 204214,
+      "name": "Winter Supercycle by Zealy",
+      "createdAt": "2025-12-11T14:41:47.30827Z",
+      "launchDate": "2025-12-16T11:33:49.485Z",
+      "website": "https://zealy.io"
+    },
+    {
+      "id": "498c8d96-8721-496e-bd30-b5b8792503a2",
+      "totalMembers": 5436,
+      "twitterFollowers": 4326,
+      "totalDiscordMembers": 5113,
+      "name": "Gainity",
+      "createdAt": "2025-12-15T14:46:14.415624Z",
+      "launchDate": "2025-12-17T11:00:00.000Z",
+      "website": "https://gainity.io/"
+    },
+    {
+      "id": "da9d6090-f6b7-46ad-9bc4-f5527efa2f8f",
+      "totalMembers": 889,
+      "twitterFollowers": 6713,
+      "totalDiscordMembers": 1973,
+      "name": "Titanium Finance",
+      "createdAt": "2025-12-13T08:26:59.449844Z",
+      "launchDate": "2025-12-15T14:44:24.697Z",
+      "website": "https://titanium.finance"
+    },
+    {
+      "id": "1ca45f2d-55bb-41d5-a015-66e6eb7a3f64",
+      "totalMembers": 1806,
+      "twitterFollowers": 3479,
+      "totalDiscordMembers": 1227,
+      "name": "Sigma Browser AI",
+      "createdAt": "2025-11-18T09:52:01.601942Z",
+      "launchDate": "2025-12-15T18:55:36.306Z",
+      "website": "https://www.sigmabrowser.com"
+    },
+    {
+      "id": "450f9f54-31b6-4d08-a349-12f6e704f257",
+      "totalMembers": 289,
+      "twitterFollowers": 398,
+      "totalDiscordMembers": 232,
+      "name": "CZ Bingo Rush",
+      "createdAt": "2025-12-23T06:42:32.613778Z",
+      "launchDate": "2025-12-24T08:00:00.000Z",
+      "website": ""
+    },
+    {
+      "id": "69059809-3f25-433b-92ac-4b6ae9010d68",
+      "totalMembers": 1161,
+      "twitterFollowers": 1112,
+      "totalDiscordMembers": 0,
+      "name": "Allswaps",
+      "createdAt": "2025-12-24T08:04:36.029477Z",
+      "launchDate": "2025-12-24T12:31:31.749Z",
+      "website": null
+    },
+    {
+      "id": "a64bdbee-c51b-4f3c-9f6d-8d92d09f8512",
+      "totalMembers": 1917,
+      "twitterFollowers": 3577,
+      "totalDiscordMembers": 2050,
+      "name": "Ghostcoin Community",
+      "createdAt": "2025-12-09T21:31:28.421902Z",
+      "launchDate": "2025-12-17T13:50:06.848Z",
+      "website": "https://ghostcoin.com"
+    },
+    {
+      "id": "3b309949-9c8d-4c0d-952c-a807aea19e4e",
+      "totalMembers": 1017,
+      "twitterFollowers": 4,
+      "totalDiscordMembers": 0,
+      "name": "TapbitGlobal",
+      "createdAt": "2025-12-23T09:18:33.145452Z",
+      "launchDate": "2025-12-25T06:38:25.384Z",
+      "website": "https://www.tapbit.com/"
+    },
+    {
+      "id": "33ddc78c-7947-4424-bd23-82cb1ca954a0",
+      "totalMembers": 376,
+      "twitterFollowers": 9110,
+      "totalDiscordMembers": 340,
+      "name": "Tramplin",
+      "createdAt": "2025-12-19T04:56:18.335071Z",
+      "launchDate": "2025-12-24T00:19:33.742Z",
+      "website": "https://tramplin.io"
+    },
+    {
+      "id": "aa9d4fd5-e51a-4f47-a4c3-3d05b558c2fa",
+      "totalMembers": 328,
+      "twitterFollowers": 18653,
+      "totalDiscordMembers": 10495,
+      "name": "Humanoid Network",
+      "createdAt": "2025-12-15T17:22:09.785377Z",
+      "launchDate": "2025-12-16T14:22:49.760Z",
+      "website": "https://humanoidnetwork.org/"
+    },
+    {
+      "id": "f2da5579-5146-48de-9120-279bf4435e4e",
+      "totalMembers": 2399,
+      "twitterFollowers": 2232,
+      "totalDiscordMembers": 0,
+      "name": "TUTUT",
+      "createdAt": "2025-12-07T18:55:58.733308Z",
+      "launchDate": "2025-12-08T06:29:59.474Z",
+      "website": "http://tututcoin.com"
+    },
+    {
+      "id": "ae135dda-f5cc-4dc7-b3bc-54d8b088000f",
+      "totalMembers": 969,
+      "twitterFollowers": 1122,
+      "totalDiscordMembers": 0,
+      "name": "Fragmentsorg",
+      "createdAt": "2025-12-05T10:27:50.584754Z",
+      "launchDate": "2025-12-08T15:04:17.024Z",
+      "website": "https://www.fragments.org/"
+    },
+    {
+      "id": "f8198d36-4924-4a9f-9989-96cc2c567eb3",
+      "totalMembers": 1994,
+      "twitterFollowers": 1505,
+      "totalDiscordMembers": 0,
+      "name": "NOBULLIES",
+      "createdAt": "2025-12-03T18:34:21.204959Z",
+      "launchDate": "2025-12-09T18:55:19.061Z",
+      "website": "https://nobullytoken.com/"
+    }
+  ]
+}
